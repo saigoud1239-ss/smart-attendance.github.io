@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Images (optional - exclude if folder is large)
+# images/
+
+# OS files
+.DS_Store
+Thumbs.db
